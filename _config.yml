@@ -15,6 +15,5 @@ twitter_username: jekyllrb
 github_username:  jekyll
 main_site_url: "http://www.fastprodco.com/"
 kickinespresso_url: "https://www.kickinespresso.com"
-
 # Build settings
 markdown: kramdown
